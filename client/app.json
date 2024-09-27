@@ -1,14 +1,17 @@
 {
+
+
   "expo": {
     "name": "osc-proximity-chat-app",
     "slug": "osc-proximity-chat-app",
     "scheme": "osc-proximity-chat-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "C:\\Users\\ShobhaRatnamPriya\\OSC-Proximity-Chat-App\\client\\assets\\icons\\expo\\icon.png",
+
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "https://i.ibb.co/SB98w6x/Untitled-design-2.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -20,13 +23,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "C:\\Users\\ShobhaRatnamPriya\\OSC-Proximity-Chat-App\\client\\assets\\icons\\expo\\adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "C:\\Users\\ShobhaRatnamPriya\\OSC-Proximity-Chat-App\\client\\assets\\icons\\expo\\favicon.png"
     },
+
     "plugins": [
       "expo-router",
       [
